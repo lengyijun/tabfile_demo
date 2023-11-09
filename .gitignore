@@ -1,0 +1,8 @@
+/target
+src/bin/mk_stardict
+**/*.dict.dz
+**/*.idx
+**/*.ifo
+**/*.tab
+**/*.dict
+
